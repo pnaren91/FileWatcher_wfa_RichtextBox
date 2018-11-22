@@ -1,0 +1,10 @@
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\bin\Debug\Pointel.FolderNotifier.exe.config
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\bin\Debug\Pointel.FolderNotifier.exe
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\bin\Debug\Pointel.FolderNotifier.pdb
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\obj\Debug\Pointel.FolderNotifier.Form1.resources
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\obj\Debug\Pointel.FolderNotifier.Properties.Resources.resources
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\obj\Debug\Pointel.FolderNotifier.csproj.GenerateResource.cache
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\obj\Debug\Pointel.FolderNotifier.csproj.CoreCompileInputs.cache
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\obj\Debug\Pointel.FolderNotifier.exe
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\obj\Debug\Pointel.FolderNotifier.pdb
+F:\Gad-A-Get\Pointel.FolderNotifier\Pointel.FolderNotifier\obj\Debug\Pointel.FolderNotifier.csprojAssemblyReference.cache
